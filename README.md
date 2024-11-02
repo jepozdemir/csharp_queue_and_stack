@@ -1,4 +1,4 @@
-![Queue vs Stack](/cover.jpg "Queue vs Stack")
+![Queue vs Stack](/cover.png "Queue vs Stack")
 
 This repository contains code samples and techniques referenced in my Medium blog post, ["Queue vs. Stack in C#"](https://medium.com/@jepozdemir/queue-vs-stack-in-c-2f75efe907d5). This post and repository focus on understanding the differences between queues and stacks in C#, their use cases, and when to choose one over the other.
 
