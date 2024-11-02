@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Tutorials.QueueAndStack", "CSharp.Tutorials.QueueAndStack\CSharp.Tutorials.QueueAndStack.csproj", "{ABBA5BEB-E2C8-49BB-9EC1-5BB4D4FCC009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBA5BEB-E2C8-49BB-9EC1-5BB4D4FCC009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBA5BEB-E2C8-49BB-9EC1-5BB4D4FCC009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBA5BEB-E2C8-49BB-9EC1-5BB4D4FCC009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBA5BEB-E2C8-49BB-9EC1-5BB4D4FCC009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB018BF3-B514-4FF4-A3F0-73C8F9830B72}
+	EndGlobalSection
+EndGlobal
